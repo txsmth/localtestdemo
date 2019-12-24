@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="10.043" tests="30" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\eclipse-workspace\BaseTest\target\test-classes;E:\eclipse-workspace\BaseTest\target\classes;E:\Maven-Repository\org\testng\testng\6.8.8\testng-6.8.8.jar;E:\Maven-Repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;E:\Maven-Repository\com\beust\jcommander\1.27\jcommander-1.27.jar;E:\Maven-Repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar;E:\Maven-Repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar;E:\Maven-Repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\Maven-Repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;E:\Maven-Repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;E:\Maven-Repository\com\alibaba\fastjson\1.2.47\fastjson-1.2.47.jar;E:\Maven-Repository\cn\afterturn\easypoi-annotation\4.0.0\easypoi-annotation-4.0.0.jar;E:\Maven-Repository\cn\afterturn\easypoi-base\4.0.0\easypoi-base-4.0.0.jar;E:\Maven-Repository\org\apache\poi\poi\4.0.0\poi-4.0.0.jar;E:\Maven-Repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;E:\Maven-Repository\org\apache\poi\poi-ooxml\4.0.0\poi-ooxml-4.0.0.jar;E:\Maven-Repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;E:\Maven-Repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;E:\Maven-Repository\org\apache\poi\poi-ooxml-schemas\4.0.0\poi-ooxml-schemas-4.0.0.jar;E:\Maven-Repository\org\apache\xmlbeans\xmlbeans\3.0.1\xmlbeans-3.0.1.jar;E:\Maven-Repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar;E:\Maven-Repository\org\apache\commons\commons-lang3\3.2.1\commons-lang3-3.2.1.jar;E:\Maven-Repository\ognl\ognl\3.2.6\ognl-3.2.6.jar;E:\Maven-Repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;E:\Maven-Repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;E:\Maven-Repository\javax\validation\validation-api\1.1.0.Final\validation-api-1.1.0.Final.jar;E:\Maven-Repository\org\hibernate\hibernate-validator\5.2.4.Final\hibernate-validator-5.2.4.Final.jar;E:\Maven-Repository\org\jboss\logging\jboss-logging\3.2.1.Final\jboss-logging-3.2.1.Final.jar;E:\Maven-Repository\com\fasterxml\classmate\1.1.0\classmate-1.1.0.jar;E:\Maven-Repository\javax\el\javax.el-api\2.2.4\javax.el-api-2.2.4.jar;E:\Maven-Repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar;E:\Maven-Repository\commons-dbutils\commons-dbutils\1.6\commons-dbutils-1.6.jar;E:\Maven-Repository\io\qameta\allure\allure-testng\2.6.0\allure-testng-2.6.0.jar;E:\Maven-Repository\io\qameta\allure\allure-descriptions-javadoc\2.6.0\allure-descriptions-javadoc-2.6.0.jar;E:\Maven-Repository\commons-io\commons-io\2.5\commons-io-2.5.jar;E:\Maven-Repository\io\qameta\allure\allure-java-commons\2.6.0\allure-java-commons-2.6.0.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-api\1.0-BETA6\allure2-model-api-1.0-BETA6.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-pojo\1.0-BETA6\allure2-model-pojo-1.0-BETA6.jar;E:\Maven-Repository\org\apache\tika\tika-core\1.14\tika-core-1.14.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-jackson\1.0-BETA6\allure2-model-jackson-1.0-BETA6.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-databind\2.7.0\jackson-databind-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-annotations\2.7.0\jackson-annotations-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-core\2.7.0\jackson-core-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\module\jackson-module-jaxb-annotations\2.7.0\jackson-module-jaxb-annotations-2.7.0.jar;E:\Maven-Repository\org\aspectj\aspectjrt\1.8.10\aspectjrt-1.8.10.jar;E:\Maven-Repository\org\jooq\joor\0.9.6\joor-0.9.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\wurui\AppData\Local\Temp\surefire783335701866386602\surefirebooter5811953885266718039.jar C:\Users\wurui\AppData\Local\Temp\surefire783335701866386602 2019-12-23T19-22-49_776-jvmRun1 surefire4226047159055040793tmp surefire_0694772119891389276tmp"/>
+    <property name="surefire.test.class.path" value="E:\eclipse-workspace\BaseTest\target\test-classes;E:\eclipse-workspace\BaseTest\target\classes;E:\Maven-Repository\org\testng\testng\6.8.8\testng-6.8.8.jar;E:\Maven-Repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;E:\Maven-Repository\com\beust\jcommander\1.27\jcommander-1.27.jar;E:\Maven-Repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar;E:\Maven-Repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar;E:\Maven-Repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\Maven-Repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;E:\Maven-Repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;E:\Maven-Repository\com\alibaba\fastjson\1.2.47\fastjson-1.2.47.jar;E:\Maven-Repository\cn\afterturn\easypoi-annotation\4.0.0\easypoi-annotation-4.0.0.jar;E:\Maven-Repository\cn\afterturn\easypoi-base\4.0.0\easypoi-base-4.0.0.jar;E:\Maven-Repository\org\apache\poi\poi\4.0.0\poi-4.0.0.jar;E:\Maven-Repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;E:\Maven-Repository\org\apache\poi\poi-ooxml\4.0.0\poi-ooxml-4.0.0.jar;E:\Maven-Repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;E:\Maven-Repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;E:\Maven-Repository\org\apache\poi\poi-ooxml-schemas\4.0.0\poi-ooxml-schemas-4.0.0.jar;E:\Maven-Repository\org\apache\xmlbeans\xmlbeans\3.0.1\xmlbeans-3.0.1.jar;E:\Maven-Repository\com\google\guava\guava\16.0.1\guava-16.0.1.jar;E:\Maven-Repository\org\apache\commons\commons-lang3\3.2.1\commons-lang3-3.2.1.jar;E:\Maven-Repository\ognl\ognl\3.2.6\ognl-3.2.6.jar;E:\Maven-Repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;E:\Maven-Repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;E:\Maven-Repository\javax\validation\validation-api\1.1.0.Final\validation-api-1.1.0.Final.jar;E:\Maven-Repository\org\hibernate\hibernate-validator\5.2.4.Final\hibernate-validator-5.2.4.Final.jar;E:\Maven-Repository\org\jboss\logging\jboss-logging\3.2.1.Final\jboss-logging-3.2.1.Final.jar;E:\Maven-Repository\com\fasterxml\classmate\1.1.0\classmate-1.1.0.jar;E:\Maven-Repository\javax\el\javax.el-api\2.2.4\javax.el-api-2.2.4.jar;E:\Maven-Repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar;E:\Maven-Repository\commons-dbutils\commons-dbutils\1.6\commons-dbutils-1.6.jar;E:\Maven-Repository\io\qameta\allure\allure-testng\2.6.0\allure-testng-2.6.0.jar;E:\Maven-Repository\io\qameta\allure\allure-descriptions-javadoc\2.6.0\allure-descriptions-javadoc-2.6.0.jar;E:\Maven-Repository\commons-io\commons-io\2.5\commons-io-2.5.jar;E:\Maven-Repository\io\qameta\allure\allure-java-commons\2.6.0\allure-java-commons-2.6.0.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-api\1.0-BETA6\allure2-model-api-1.0-BETA6.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-pojo\1.0-BETA6\allure2-model-pojo-1.0-BETA6.jar;E:\Maven-Repository\org\apache\tika\tika-core\1.14\tika-core-1.14.jar;E:\Maven-Repository\io\qameta\allure\allure2-model-jackson\1.0-BETA6\allure2-model-jackson-1.0-BETA6.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-databind\2.7.0\jackson-databind-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-annotations\2.7.0\jackson-annotations-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\core\jackson-core\2.7.0\jackson-core-2.7.0.jar;E:\Maven-Repository\com\fasterxml\jackson\module\jackson-module-jaxb-annotations\2.7.0\jackson-module-jaxb-annotations-2.7.0.jar;E:\Maven-Repository\org\aspectj\aspectjrt\1.8.10\aspectjrt-1.8.10.jar;E:\Maven-Repository\org\jooq\joor\0.9.6\joor-0.9.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="allure.results.directory" value="E:\eclipse-workspace\BaseTest\target/allure-results"/>
+    <property name="user.home" value="C:\Users\wurui"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Java\jdk1.8.0_172\jre"/>
+    <property name="basedir" value="E:\eclipse-workspace\BaseTest"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\wurui\AppData\Local\Temp\surefire783335701866386602\surefirebooter5811953885266718039.jar;E:\Maven-Repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar"/>
+    <property name="sun.boot.class.path" value="D:\Java\jdk1.8.0_172\jre\lib\resources.jar;D:\Java\jdk1.8.0_172\jre\lib\rt.jar;D:\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;D:\Java\jdk1.8.0_172\jre\lib\jsse.jar;D:\Java\jdk1.8.0_172\jre\lib\jce.jar;D:\Java\jdk1.8.0_172\jre\lib\charsets.jar;D:\Java\jdk1.8.0_172\jre\lib\jfr.jar;D:\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_172-b11"/>
+    <property name="user.name" value="wurui"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\Maven-Repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\wurui\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="user.dir" value="E:\eclipse-workspace\BaseTest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="idea.version2019.1.3" value="true"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Java\jdk1.8.0_172\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\Java\jdk1.8.0_172\bin;D:\Java\jdk1.8.0_172\jre\bin;D:\Maven-3.5.3\bin;D:\apache-tomcat-8.5.42\bin;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;d:\Git\cmd;D:\nodejs\;D:\android-sdk\platform-tools;D:\android-sdk\tools;D:\android-sdk\build-tools\28.0.0;D:\mysql\bin;D:\ffmpeg-20191016-29dac29-win64-static\bin;C:\Program Files (x86)\HP\IdrsOCR_15.2.10.1114\;C:\Users\wurui\AppData\Local\Microsoft\WindowsApps;C:\Users\wurui\AppData\Roaming\npm;d:\Fiddler;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.172-b11"/>
+    <property name="java.ext.dirs" value="D:\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="1.249"/>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="0.109"/>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="0.078"/>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="0.078"/>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="0.251"/>
+  <testcase name="Register" classname="com.lemon.testcaes.RegisterCase" time="0.094"/>
+  <testcase name="login" classname="com.lemon.testcaes.LoginCase" time="0.078"/>
+  <testcase name="login" classname="com.lemon.testcaes.LoginCase" time="0.086"/>
+  <testcase name="login" classname="com.lemon.testcaes.LoginCase" time="0.21"/>
+  <testcase name="login" classname="com.lemon.testcaes.LoginCase" time="0.22"/>
+  <testcase name="login" classname="com.lemon.testcaes.LoginCase" time="0.21"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.11"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.079"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.099"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.088"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.094"/>
+  <testcase name="configures" classname="com.lemon.testcaes.ConfiguresCase" time="0.091"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.189"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.063"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.12"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.095"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.155"/>
+  <testcase name="project" classname="com.lemon.testcaes.ProjectsCase" time="0.159"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.079"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.082"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.082"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.094"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.094"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.135"/>
+  <testcase name="createProject" classname="com.lemon.testcaes.CreateProjectCase" time="0.185">
+    <failure message="expected [Pass] but found [Fail]" type="java.lang.AssertionError">java.lang.AssertionError: expected [Pass] but found [Fail]
+	at com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:47)
+</failure>
+    <system-out><![CDATA[[INFO] 2019-12-23 19:23:00 method: com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:23)----=======================CreateProjectCase.test=======================
+[INFO] 2019-12-23 19:23:00 method: com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:26)----=======================CreateProjectCase参数化后请求参数：{"name": "15201065119","leader": "wurui","tester":"wurui","programmer":"wurui","publish_app":"111","desc":"大王叫我来巡山"}
+[INFO] 2019-12-23 19:23:00 method: com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:32)----==================CreateProjectCase参数化后的sql查询语句: 
+[INFO] 2019-12-23 19:23:00 method: com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:36)----==================CreateProjectCase参数化后请求期望数据：[{"value":"15201065119","expression":"$.name"}]
+[INFO] 2019-12-23 19:23:00 method: com.lemon.utils.HttpUtil.post(HttpUtil.java:167)----Post请求响应头是： [Server: nginx/1.16.1, Date: Mon, 23 Dec 2019 11:22:59 GMT, Content-Type: application/json, Content-Length: 62, Connection: keep-alive, Vary: Accept, Origin, Allow: GET, POST, HEAD, OPTIONS, X-Frame-Options: SAMEORIGIN]
+[INFO] 2019-12-23 19:23:00 method: com.lemon.utils.HttpUtil.post(HttpUtil.java:172)----Post请求状态响应码是： 400
+[INFO] 2019-12-23 19:23:00 method: com.lemon.utils.HttpUtil.post(HttpUtil.java:173)----Post请求响应体是： {"name":["具有 项目名称 的 项目信息 已存在。"]}
+[INFO] 2019-12-23 19:23:00 method: com.lemon.testcaes.CreateProjectCase.createProject(CreateProjectCase.java:45)----========================CreateProjectCase最终断言结果：Fail
+]]></system-out>
+  </testcase>
+</testsuite>
